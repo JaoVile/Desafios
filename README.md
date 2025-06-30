@@ -1,0 +1,1 @@
+Este repositório contém uma coleção organizada dos desafios enfrentados durante meus cursos e ao longo da minha trajetória profissional. Comprometo-me a mantê-lo atualizado, documentando de forma sistemática meu desenvolvimento, aquisição de conhecimentos e evolução na área
